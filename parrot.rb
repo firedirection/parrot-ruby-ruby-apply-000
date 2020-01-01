@@ -2,4 +2,5 @@
 # returns the phrase
 
 
-define 
+def parrot(string="Squawk!")
+ puts 
